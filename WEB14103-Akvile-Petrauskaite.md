@@ -96,80 +96,18 @@ Thimble with animations: [https://d157rqmxrxj6ey.cloudfront.net/itsfranhere/1610
 
 Below are the links to all of my blog posts for each week of the whole unit through out the first term.
 
+**Week 1: EyeBombing**
 
-Reflect on the concept and document your creative process.
+**Week 2: OneTweet**
 
-You can post pictures of scribbled notes, or jot down notes digitally. It doesn't need to be fleshed out and well written. The main goal here is to record your flow of ideas, not to make it beautiful!
+**Week 3: Union Hack**
 
-###EyeBombing
+**Week 4: peer learning**
 
-###OneTweet
+**Week 5: formative assessment**
 
-###The Union Hack
+**Week 7: The Web's Grain**
 
+**Week 8: Code in your plate**
 
-
-###Peer Learning
-
-You can use the questions below as a guide for your blog post.
-
-Mini-lesson content
-
-How did you plan your mini-lesson?
-What were the key points you wanted to get across?
-How did you decide to communicate them?
-What assumptions have you made about what we already know?
-How interactive was your mini-lesson? How was the audience meant to participate?
-What questions have you planned to ask your audience? How open were those questions? What type of questions (Right-there, Between-the-lines or Opinion-needed questions)?
-Delivery
-
-What role did visuals (eg: slides, if you had any) play in your mini-lesson?
-What role did each team member play in delivering the mini-lesson?
-How did you practice your mini-lesson?
-How did your mini-lesson start? How did you hook your audience?
-What was your body language like? Consider facial expressions, movements of the arms, eye contact with the audience, and posture.
-What was your voice like? Consider speed of delivery, pausing, volume and pitch.
-What can you improve?
-
-
-###Formative Assessment
-Individually, reflect on the feedback you received during the formative assessment, as well as your experience in this unit so far, and write about it.
-
-Your post should address these questions (in no particular order):
-
-ME:
-
-How and what did I learn?
-What worked and what didn't?
-Did I reach my goals, why or why not?
-How did I feel during the process?
-My TEAM:
-
-How did the team perform?
-What worked and what didn't?
-What can we do better next time?
-Did the team reach the goal?
-Was there conflict, how do we fix it?
-
-###The Web's Grain.
-
-When dealing with a new medium, we tend to use old metaphors in order to make sense of it. Cars were initially thought of as horseless carriages. The first photographs tried to replicate paintings.
-
-Likewise, things on the Web were initially called pages (as if they were flippable sheets of printed paper), organised into sites etc.
-
-What makes Web things different from other media?
-
-How can we use the unique properties of the Web medium to our advantage (for instance, to make a recipe that doesn't look just like a printed page)?
-
-###Code in your plate
-
-Write about your design process. What inspires you, what do you want to achieve?
-Write about your coding process. How are you translating your design ideas into code? What and how are you learning?
-
-###How to {YOUR CSS TRICK HERE}
-
-Polish up your CSS trick demo and write a how to post for anyone to learn it.
-
-Publish it to GitHub / Medium.
-
-This will become part of a series of tutorials that we'll publish on the Web Media official site next year!
+**Week 9: CSS tricks**
