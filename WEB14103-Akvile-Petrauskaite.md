@@ -94,20 +94,4 @@ Thimble with animations: [https://d157rqmxrxj6ey.cloudfront.net/itsfranhere/1610
 
 ##Blog Posts
 
-Below are the links to all of my blog posts for each week of the whole unit through out the first term.
-
-**Week 1: EyeBombing**
-
-**Week 2: OneTweet**
-
-**Week 3: Union Hack**
-
-**Week 4: peer learning**
-
-**Week 5: formative assessment**
-
-**Week 7: The Web's Grain**
-
-**Week 8: Code in your plate**
-
-**Week 9: CSS tricks**
+Below is the link to all of my blog posts for each week of the whole unit through out the first term.
